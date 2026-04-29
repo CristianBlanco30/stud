@@ -1,6 +1,6 @@
 Package: stud
 Type: Package
-Title: student_pack
+Title: Il mio primo pacchetto
 Version: 0.1.0
 Author: Cristian Blanco
 Maintainer: The package maintainer <cristian.blanco@studio.unibo.it>
