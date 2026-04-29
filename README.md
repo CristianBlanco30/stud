@@ -1,3 +1,3 @@
-# student_pack
+# stud
 
 This is a package developed by me, bitch
